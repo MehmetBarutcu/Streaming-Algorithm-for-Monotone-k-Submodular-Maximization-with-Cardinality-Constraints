@@ -1,7 +1,5 @@
 # Streaming Algorithm for Monotone k-Submodular Maximization with Cardinality Constraints
 
-This readme file is an outcome of the [CENG502 (Spring 2023)](https://ceng.metu.edu.tr/~skalkan/ADL/) project for reproducing a paper without an implementation. See [CENG502 (Spring 20223) Project List](https://github.com/CENG502-Projects/CENG502-Spring2023) for a complete list of all paper reproduction projects.
-
 # 1. Introduction
 
 This project aims to reproduce the results of the paper titled "Streaming Algorithm for Monotone k-Submodular Maximization with Cardinality Constraints," published in ICML, 2022.
@@ -316,8 +314,6 @@ In the Sensor Placement problem, we also achieved similar results to those prese
 Our implementation confirmed the key findings of the paper and highlighted the effectiveness of the proposed algorithm for both the Influence Maximization and Sensor Placement problems. The project underscores the significance of efficient algorithms for submodular maximization in practical applications such as social network analysis and sensor deployment.
 
 Finally, we set up additional experiments to absorve the overhead cost of the approximiting the function on influence maximization problem and to highlight the potential of using deep reinforcement learning techniques for decision-making in resource-constrained scenarios.
-
-To wrap up, I enjoyed reproducing this paper and learned a lot during the process. I would like to thank the authors for writing such a great and mostly clear paper and Sinan Hoca for equipping us with the skills to take on this project.
 
 # 5. References
 
